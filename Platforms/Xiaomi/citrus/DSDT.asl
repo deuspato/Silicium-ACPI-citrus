@@ -12,7 +12,7 @@ DefinitionBlock ("DSDT.aml", "DSDT", 2, "QCOM ", "SM6115 ", 3)
 
             Name (_HID, "QCOM24A5")
             Name (_UID, 0)
-            Name (_CCA, 1)
+            Name (_CCA, 0)
 
             Name (_CRS, ResourceTemplate ()
             {
